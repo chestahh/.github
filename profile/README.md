@@ -19,12 +19,18 @@
 <p align="center">
 GulchCE is a fork of <a href="https://github.com/OpenCommunityEdition/OpenCE">OpenCommunityEdition/OpenCE</a>- the Halo: Combat Evolved decompilation project targeting Linux, 
 Windows, Android and web browsers.
-<br>
+</p>
+<hr>
 <h3 align="center">
 GulchCE will always be compatible with OpenCE, so players on both clients can play together.
 </h3>
 <br>
 <p align="center">
+Any fork compatible with OpenCE is also compatible with GulchCE. Crossplay galore!
+</p>
+<br>
+<p align="center">
   Halo is a trademark of Microsoft. GulchCE is a fan project, not made or endorsed by Microsoft, Bungie, 343 Industries, or Halo Studios, and does not include any game assets or content.
 </p>
 <hr>
+<br>
